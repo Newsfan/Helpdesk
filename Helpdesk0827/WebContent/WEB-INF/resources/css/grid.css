@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+.row {
+	display: block;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.col {
+	display: inline;
+	float: left;
+	margin: 0 3% 0 0;
+}
+
+.col-1{width: 5.5%;}
+
+.col-2{width: 14%;}
+
+.col-3{width: 22.5%;}
+
+.col-4{width: 31%;}
+
+.col-5{width: 39.5%;}
+
+.col-6{width: 48%;}
+
+.col-7{width: 56.5%;}
+
+.col-8{width: 65%;}
+
+.col-9{width: 73.5%;}
+
+.col-10{width: 82%;}
+
+.col-11{width: 90.5%;}
+
+.col-12{width: 99%;}
+
+.col-last {
+	margin-right: 0;
+}
